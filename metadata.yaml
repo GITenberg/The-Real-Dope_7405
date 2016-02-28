@@ -1,0 +1,26 @@
+_repo: The-Real-Dope_7405
+creator:
+  author:
+    agent_name: Lardner, Ring
+    aliases:
+    - Lardner, Ring W. (Ring Wilmer)
+    - Lardner, Ring Wilmer
+    birthdate: 1885
+    deathdate: 1933
+    gutenberg_agent_id: '2457'
+    url: http://www.gutenberg.org/2009/agents/2457
+    wikipedia: http://en.wikipedia.org/wiki/Ring_Lardner
+description: ''
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7405'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Caricatures and cartoons'
+- !lcc 'D501'
+title: The Real Dope
+url: http://www.gutenberg.org/ebooks/7405
